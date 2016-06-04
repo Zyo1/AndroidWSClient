@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/Client2/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/root/AndroidStudioProjects/Client2/res/menu/main.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Client2/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/root/AndroidStudioProjects/Client2/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Client2/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/root/AndroidStudioProjects/Client2/res/menu/menu_main.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string name="menu_refresh">Update</string>
+
+    <string name="menu_color_scheme">Color scheme</string>
+    <string name="menu_color_scheme_1">Scheme #1</string>
+    <string name="menu_color_scheme_2">Scheme #2</string>
+    <string name="menu_color_scheme_3">Scheme #3</string>
+
+
+
+</resources>
